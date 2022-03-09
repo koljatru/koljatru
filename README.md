@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @koljatru
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I am currently studying and looking for a job
 
 <!---
 koljatru/koljatru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
