@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koljatru
+- 👋 Hi, I’m Trunin Nikolai
 - 👀 I’m interested in front end development
 - 🌱 I am currently studying and looking for a job
 
