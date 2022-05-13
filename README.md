@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Trunin Nikolai
-- 👀 I’m interested in front end development
-- 🌱 I am currently studying and looking for a job
+- 👋 Hi, I’m Nikolai Trunin
+- 👀 I’m interested in front-end and Full-stack development
+- 🌱 I am currently at Elbrus Coding Bootcamp studying and looking for a job
 
 <!---
 koljatru/koljatru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
