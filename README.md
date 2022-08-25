@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikolai Trunin
-- 👀 I’m interested in Front-end
+- 👀 I’m  Frontend developer
 
 <!---
 koljatru/koljatru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
