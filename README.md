@@ -17,7 +17,7 @@
   <img align="left" alt="nikolai trunin | Telegram" width="40px"  src="https://camo.githubusercontent.com/802e6513a19383f844ad4138d311c7840c1c3718c586757a214a2f28b740ea7b/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f74656c656772616d2d6170702e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"
  </a>
 </p>
-  
+ <div>
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -69,7 +69,7 @@
     <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a> 
 </p>
-
+</div>
 
 
 
