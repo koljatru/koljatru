@@ -18,18 +18,8 @@
  </a>
 </p>
   
-  ### Контакты:
-
-[<img align="left" alt="juljuliks | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
-[<img align="left" alt="juljuliks | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
-[<img align="left" alt="juljuliks | WhatsApp" width="40px" src="https://img.icons8.com/color/48/000000/whatsapp.png" />][whatsapp]
-[<img align="left" alt="juljuliks | Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img align="left" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
-</a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 </a> 
