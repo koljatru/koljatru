@@ -18,8 +18,9 @@
  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
+<h3 align="left">Languages and Tools:</h3>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
 </a> 
