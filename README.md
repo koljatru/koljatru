@@ -67,7 +67,8 @@
     <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a> 
 </p>
-<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=koljatru&label=Profile%20views&color=0e75b6&style=flat" alt="koljatru" /> </h1>
+<br/>
+<h2 align="left"> <img src="https://komarev.com/ghpvc/?username=koljatru&label=Profile%20views&color=0e75b6&style=flat" alt="koljatru" /> </p>
 
 
 
