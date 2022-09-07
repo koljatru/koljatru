@@ -14,6 +14,7 @@
   <img align="left" alt="nikolai trunin | Telegram" width="40px"  src="https://camo.githubusercontent.com/802e6513a19383f844ad4138d311c7840c1c3718c586757a214a2f28b740ea7b/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f74656c656772616d2d6170702e706e67" data-canonical-src="https://img.icons8.com/fluency/48/000000/telegram-app.png" style="max-width: 100%;"
  </a>
 </p>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koljatru&label=Profile%20views&color=0e75b6&style=flat" alt="koljatru" /> </p>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
