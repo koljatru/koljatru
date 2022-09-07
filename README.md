@@ -5,9 +5,6 @@
 
 - 📫 How to reach me **koljatru@yandex.ru**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nikolai-trunin/](https://www.linkedin.com/in/nikolai-trunin/)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nikolai trunin" target="blank">
