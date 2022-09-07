@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Nikolai Trunin</h1>
-<h3 align="left">Frontend developer, with more than 5 commercial projects development experience.</h3>
+<h1 align="center">Hi 👋, I'm Nikolai Trunin</h1>
+<h3 align="center">Frontend developer, with more than 5 commercial projects development experience.</h3>
 
 - 🌱 I’m currently learning **TypeScript, Vue js**
 
